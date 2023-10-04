@@ -6,9 +6,25 @@ After completing this exercise, you should be able to discuss or answer the foll
 
 - What tag is needed to load JavaScript scripts into an HTML document?
 
+```javascript
+<script></script>
+```
+
 - How do you use a script tag to write JavaScript directly in the HTML document?
 
+Put the JavaScript code inbetween the script tag.
+
+```javascript
+<script>console.log("Hello world")</script>
+```
+
 - How do you use a script tag to load an external JavaScript file?
+
+By using the src tag as follows:
+
+```javascript
+<script src="/prep-html-script-tag/main.js"></script>
+```
 
 ## Notes
 
