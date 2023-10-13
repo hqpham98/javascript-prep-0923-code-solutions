@@ -28,7 +28,7 @@ By using the src tag as follows:
 
 ## Notes
 
-All student notes should be written here.
+All student note should be written here.
 
 How to write `Code Examples` in markdown
 
